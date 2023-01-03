@@ -1,0 +1,29 @@
+Test cases
+
+ After the modification in your local repo ,Check whether your repo is synchronised with the remote repo.
+
+   1.git log – to view the latest commits
+   
+     commit edbe7ef78d7ebce8dcd0f58368741bac9ab4739e (HEAD -> main, origin/main, origin/HEAD)
+     Author: shanmugatharshiniselvaraj <shanmugatharshini.s@yantravision.com>
+     Date:   Tue Jan 3 14:30:36 2023 +0530
+
+     added sample file
+
+     commit 2a4d59202dfcba3fdbd3294f2e1bc7533806cfb4
+     Author: shanmugatharshiniselvaraj <121481854+shanmugatharshiniselvaraj@users.noreply.github.com>
+     Date:   Tue Jan 3 14:08:13 2023 +0530
+
+     Initial commit
+
+   2.git status
+   
+     On branch main
+     Your branch is up to date with 'origin/main'.
+
+     nothing to commit, working tree clean
+
+   3.git fetch 
+     
+   4.git status
+	
